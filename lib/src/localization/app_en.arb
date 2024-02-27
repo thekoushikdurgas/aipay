@@ -1,0 +1,6 @@
+{
+  "appTitle": "paymentanalysis",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
